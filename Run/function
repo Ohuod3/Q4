@@ -3,7 +3,7 @@
         try {
 
             ///Code for the server operations
-            System.out.println("Client Connected !");
+            System.out.println("Client Connected !")!;
             InputStream in = socket.getInputStream();
             OutputStream out = socket.getOutputStream();
 
